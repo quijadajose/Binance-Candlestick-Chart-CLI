@@ -2,6 +2,8 @@
 
 Este es un programa en Rust que se conecta a la API WebSocket de Binance para recibir datos de velas (candlestick) en tiempo real y mostrarlos en la terminal mediante `cli_candlestick_chart`.
 
+https://github.com/user-attachments/assets/e8f67887-8be4-4941-b35c-a45c69635844
+
 ## Requisitos
 
 - Rust instalado en el sistema
