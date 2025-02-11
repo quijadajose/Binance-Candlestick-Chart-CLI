@@ -18,6 +18,12 @@ Ejecuta el programa con el símbolo de la criptomoneda como argumento:
 cargo run -- btcusdt
 ```
 
+En el caso que tenga el binario compilado puede usar
+
+```
+./charts btcusdt
+```
+
 Reemplaza `btcusdt` con el par de criptomonedas que deseas visualizar.
 
 ## Funcionalidad
